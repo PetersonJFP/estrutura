@@ -1,0 +1,11 @@
+node_modules
+dist
+coverage
+.coverage
+tmp
+
+.env
+.env.local
+.env.develpment
+
+.vercel
